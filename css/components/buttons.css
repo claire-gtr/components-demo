@@ -1,0 +1,14 @@
+.btn {
+  padding: 8px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  background-color: blue;
+  display: inline-block;
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  opacity: 1;
+}
